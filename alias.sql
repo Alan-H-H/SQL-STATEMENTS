@@ -1,0 +1,1 @@
+SELECT name, init_date AS 'date started programming' FROM users 
